@@ -1,3 +1,6 @@
+#MK Detailing
+###Single page, fully responsive, built on html5 and css3 website created for a startup.
+
 Index page.
 ![alt text](https://github.com/matbarPL/MKDetailing/blob/master/index.png)
 
